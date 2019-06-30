@@ -1,0 +1,16 @@
+@import "node_modules/bootstrap/scss/bootstrap.scss";
+@import "_variables.scss";
+@import "_header.scss";
+@import "_footer.scss";
+
+#main {
+  margin-bottom: 40px;
+}
+
+#new_room_button{
+  margin-top: 10px;
+}
+
+input[type = "submit"]{
+  margin-top: 5px;
+}

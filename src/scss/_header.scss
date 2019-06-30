@@ -1,0 +1,18 @@
+header{
+  height: $header_heigth;
+  border-bottom: 1px solid $blue;
+
+  img{
+    height: $header_heigth;
+    padding: 10px;
+  }
+
+  nav{
+    float: right;
+    a{
+      color: $blue;
+      line-height: $header_heigth;
+      margin-left: 10px;
+    }
+  }
+}
